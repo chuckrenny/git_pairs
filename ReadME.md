@@ -1,2 +1,2 @@
-# Git Pair Practice
-## Should be a conflict
+# Git Pair Exercise
+## Should be a conflict 
