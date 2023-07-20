@@ -1,1 +1,1 @@
-# Git Pair Practice
+# Git Pair Exercise
